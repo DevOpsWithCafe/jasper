@@ -48,9 +48,9 @@ lsi: false
 username: jekyllt
 repo: jasper
 branch: master
-relative_source: ../jasper/
+relative_source: ../
 destination: ../jasper-pages/
-production_url:  https://devopswith.cafe/jasper/
+production_url:  https://devopswith.cafe/
 source_url:  https://github.com/DevOpsWithCafe/jasper/
 
 exclude:
