@@ -71,7 +71,7 @@ username: jekyllt
 repo: jasper2
 branch: master
 relative_source: ../
-destination: ../devopswithcafe-pages/
+destination: ./_site/
 production_url:  https://devopswith.cafe/
 source_url:  https://github.com/DevOpsWithCafe/devopsblog
 
