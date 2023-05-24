@@ -6,7 +6,11 @@ language: 'en-uk'
 words_per_minute: 200
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
+<<<<<<< HEAD
 baseurl: 
+=======
+baseurl:
+>>>>>>> ba381bc (baseUrl -> url)
 
 # Website info
 title: DevOpsWithCafe
@@ -68,12 +72,21 @@ feed:
 safe: False
 lsi: False
 username: jekyllt
+<<<<<<< HEAD
 repo: DevOpsWithCafe
 branch: main
 relative_source: ../
 destination: ./_site/
 production_url:  https://devopswith.cafe/
 source_url:  https://github.com/DevOpsWithCafe/jasper
+=======
+repo: jasper2
+branch: main
+relative_source: ../
+destination: ./_site/
+production_url:  https://devopswith.cafe
+source_url:  https://github.com/DevOpsWithCafe/devopsblog
+>>>>>>> ba381bc (baseUrl -> url)
 
 exclude:
   - assets/css
