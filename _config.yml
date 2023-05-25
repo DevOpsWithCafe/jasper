@@ -6,7 +6,7 @@ language: 'en-uk'
 words_per_minute: 200
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /
+baseurl: '/'
 
 # Website info
 title: DevOpsWithCafe
@@ -67,18 +67,12 @@ feed:
 # or "master" otherwise
 safe: False
 lsi: False
-username: pcoloc
-repo: DevOpsWithCafe
-branch: main
-relative_source: ../
-destination: ./_site/
-production_url:  https://devopswith.cafe
-source_url:  https://github.com/DevOpsWithCafe/jasper
+username: jekyllt
 repo: jasper2
 branch: main
-relative_source: ../
-destination: ./_site/
-production_url:  https://devopswith.cafe
+relative_source: ./
+destination: ./site/
+production_url:  https://devopswith.cafe/
 source_url:  https://github.com/DevOpsWithCafe/devopsblog
 
 exclude:
