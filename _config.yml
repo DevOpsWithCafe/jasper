@@ -15,7 +15,7 @@ cover: assets/images/blog-cover.jpg
 logo: assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
-CNAME: #add cname for website to be created
+CNAME: devopswit.cafe #add cname for website to be created
 
 # Social info
 navigation: True # show the navbar links
@@ -68,12 +68,12 @@ feed:
 safe: False
 lsi: False
 username: jekyllt
-repo: jasper2
-branch: main
+repo: jasper
+branch: master
 relative_source: ./
 destination: ./site/
-production_url:  https://devopswith.cafe/
-source_url:  https://github.com/DevOpsWithCafe/devopsblog
+production_url:  https://devopswith.cafe
+source_url:  https://github.com/DevOpsWithCafe/jasper
 
 exclude:
   - assets/css
