@@ -2,15 +2,21 @@
 markdown: kramdown
 highlighter: rouge
 paginate: 100 # it will paginate after this number
-language: 'en-uk'
+language: 'es-es'
+languages: ["es", "en"]
 words_per_minute: 200
+
+#internationalization
+exclude_from_localizations: ["javascript", "images", "css"]
+
+
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
 baseurl: /
 
 # Website info
 title: DevOpsWithCafe
-description: The professional publishing platform
+description: Plataforma de intercambio de código
 cover: assets/images/blog-cover.png
 logo: assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
@@ -24,6 +30,7 @@ subscribers: True # you need to connect an external service for this to work,
 # by editing `_includes/subscribe-form.html`
 twitter: devopswithcafe # replace by your username
 facebook: devopswithcafe # replace by your username
+youtube: devopswithcafe
 
 # Disqus
 disqus: False
@@ -42,7 +49,7 @@ permalink: /:title
 
 # gems and other configs
 plugins_dir: [_plugins]
-plugins: [jekyll-paginate, jekyll-feed]
+plugins: [jekyll-paginate, jekyll-feed, jekyll-multiple-languages-plugin]
 
 feed:
   path: feed.xml
