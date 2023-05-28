@@ -1486,7 +1486,9 @@ Usage (In Ghost editor):
 }
 
 .floating-header-share-tw,
-.floating-header-share-fb {
+.floating-header-share-fb,
+.floating-header-share-yt,
+.floating-header-share-ig {
     display: block;
     align-items: center;
     width: 60px;
@@ -1503,6 +1505,14 @@ Usage (In Ghost editor):
 
 .floating-header-share-fb {
     background: #005e99;
+}
+
+.floating-header-share-yt{
+  background: red;
+}
+
+.floating-header-share-ig{
+  background: purple;
 }
 
 .progress {
