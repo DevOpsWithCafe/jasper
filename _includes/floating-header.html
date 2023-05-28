@@ -22,7 +22,11 @@
         <a class="floating-header-share-yt" href="https://www.youtube.com/sharer/sharer.php?u={{ site.production_url }}{{ page.url | remove_first: '/' }}"
         onclick="window.open(this.href, 'share-youtube','width=580,height=296');return false;">
         {% include youtube.html %}
-    </a>
+      </a>
+      <a class="floating-header-share-yt" href="https://www.instagram.com/sharer/sharer.php?u={{ site.production_url }}{{ page.url | remove_first: '/' }}"
+          onclick="window.open(this.href, 'share-youtube','width=580,height=296');return false;">
+          {% include instagram.html %}
+      </a>
     </div>
     <progress class="progress" value="0">
         <div class="progress-container">
