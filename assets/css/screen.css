@@ -759,7 +759,7 @@ Super neat trick courtesy of @JoelDrapper
 
 Usage (In Ghost edtior):
 
-![img](/some/image.jpg#full)
+![img](/some/image.avif#full)
 
 */
 .post-full-content img[src$="#full"] {
@@ -772,7 +772,7 @@ Usage (In Ghost edtior):
 
 Usage (In Ghost editor):
 
-![img](/some/image.jpg)
+![img](/some/image.avif)
 <small>Your image caption</small>
 
 */
