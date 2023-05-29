@@ -18,10 +18,10 @@ baseurl: /
 title: DevOpsWithCafe
 description: Plataforma de intercambio de código
 cover: assets/images/blog-cover.avif
-cover_jpg: assets/images/blog-cover.png
-logo: assets/images/blog-icon.png
-logo_dark: assets/images/favicon.png
-favicon: assets/images/favicon.png
+cover_jpg: assets/images/blog-cover.avif
+logo: assets/images/blog-icon.avif
+logo_dark: assets/images/favicon.avif
+favicon: assets/images/favicon.avif
 CNAME: devopswit.cafe #add cname for website to be created
 
 # Social info
