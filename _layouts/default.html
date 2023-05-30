@@ -5,6 +5,8 @@
     <!-- Document Settings -->
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <!-- Add Google Analytics  -->
+    {% include analytics.html %}
 
     <!-- Base Meta -->
     {% include dynamic_title.html %}
@@ -127,8 +129,6 @@
     {% endif %}
 
 
-    <!-- Add Google Analytics  -->
-    {% include analytics.html %}
 
     <!-- The #block helper will pull in data from the #contentFor other template files. In this case, there's some JavaScript which we only want to use in post.hbs, but it needs to be included down here, after jQuery has already loaded. -->
     {% if page.class == "post-template" %}
