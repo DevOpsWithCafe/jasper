@@ -97,20 +97,22 @@
     {% endif %}
 
     <!-- highlight.js -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.10.0/components/prism-abap.min.js" async></script>
-    <script>$(document).ready(function() {
+    <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.10.0/components/prism-abap.min.js" async></script> -->
+    <script async type="text/javascript" src="{{ site.baseurl }}assets/js/prism-abap-1.29.min.js"></script>
+    <!-- <script>$(document).ready(function() {
       $('pre code').each(function(i, block) {
         hljs.highlightBlock(block);
       });
-    });</script>
+    });</script> -->
 
     <!-- jQuery + Fitvids, which makes all video embeds responsive -->
-    <script
-        src="https://code.jquery.com/jquery-3.2.1.min.js"
+    <!-- <script
+        src="https://code.jquery.com/jquery-3.7.0.min.js"
         integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
         crossorigin="anonymous"> async
-    </script>
-    <script type="text/javascript" src="{{ site.baseurl }}assets/js/jquery.fitvids.js" async></script>
+    </script> -->
+    <script async type="text/javascript" src="{{ site.baseurl }}assets/js/jquery-3.7.0.min.js"></script>
+    <script async type="text/javascript" src="{{ site.baseurl }}assets/js/jquery.fitvids.js"></script>
     <!-- <script type="text/javascript" src="https://demo.ghost.io/assets/js/jquery.fitvids.js?v=724281a32e" async></script> -->
 
 
