@@ -4,7 +4,7 @@ current: post
 cover:  assets/images/sonarqube.avif
 navigation: True
 title: SonarQube - Usos e Instalación
-date: 2023-06-13 00:10:00
+date: 2023-06-12 00:10:00
 tags: [SonarQube]
 class: post-template
 subclass: 'post'
