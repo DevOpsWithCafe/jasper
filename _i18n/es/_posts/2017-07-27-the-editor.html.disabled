@@ -3,9 +3,9 @@ layout: post
 current: post
 cover:  assets/images/writing.avif
 navigation: True
-title: Using the Ghost editor
+title: SonarQube - Usos e Instalación
 date: 2017-07-27 09:00:00
-tags: [Getting started]
+tags: [SonarQube]
 class: post-template
 subclass: 'post'
 author: paco
