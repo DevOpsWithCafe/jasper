@@ -14,16 +14,16 @@
     <div class="site-nav-right">
         <div class="social-links">
             {% if site.facebook %}
-                <a class="social-link social-link-fb" href="https://facebook.com/{{ site.facebook }}" target="_blank" rel="noopener">{% include facebook.html %}</a>
+                <a class="social-link social-link-fb" href="https://facebook.com/{{ site.facebook }}" target="_blank" rel="noopener" aria-label="Twitter">{% include facebook.html %}</a>
             {% endif %}
             {% if site.twitter %}
-                <a class="social-link social-link-tw" href="https://twitter.com/{{ site.twitter }}" target="_blank" rel="noopener">{% include twitter.html %}</a>
+                <a class="social-link social-link-tw" href="https://twitter.com/{{ site.twitter }}" target="_blank" rel="noopener" aria-label="Twitter">{% include twitter.html %}</a>
             {% endif %}
             {% if site.youtube %}
-                <a class="social-link social-link-yt" href="https://youtube.com/@{{ site.youtube }}" target="_blank" rel="noopener">{% include youtube.html %}</a>
+                <a class="social-link social-link-yt" href="https://youtube.com/@{{ site.youtube }}" target="_blank" rel="noopener" aria-label="Youtube">{% include youtube.html %}</a>
             {% endif %}
             {% if site.instagram %}
-                <a class="social-link social-link-yt" href="https://instagram.com/{{ site.youtube }}" target="_blank" rel="noopener">{% include instagram.html %}</a>
+                <a class="social-link social-link-yt" href="https://instagram.com/{{ site.youtube }}" target="_blank" rel="noopener" aria-label="Instagram">{% include instagram.html %}</a>
             {% endif %}
         </div>
         {% if site.subscribers %}
