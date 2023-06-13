@@ -2,7 +2,7 @@
 
     <article class="post-card {{ page.next.class }}{% unless page.next.cover %} no-image{% endunless %}">
         {% if page.next.cover %}
-            <a class="post-card-image-link" href="{{ site.baseurl }}{{ page.next.url | remove_first: '/' }}"  aria-label="{{ post.coverdesc }}">
+            <a class="post-card-image-link" href="{{ site.baseurl }}{{ page.next.url | remove_first: '/' }}"  aria-label="{% if post.coverdesc %}{{ post.coverdesc }}{% else %}Este post te puede interesar{% endif %}">
                 <div class="post-card-image" style="background-image: url({{ site.baseurl }}{{ page.next.cover }})"></div>
             </a>
         {% endif %}
