@@ -15,7 +15,7 @@ exclude_from_localizations: ["javascript", "images", "css"]
 baseurl: /
 
 # Website info
-title: DevOpsWithCafe
+title: DevOps With Cafe
 description: Plataforma de intercambio de código
 cover: assets/images/blog-cover.avif
 cover_jpg: assets/images/blog-cover.avif
