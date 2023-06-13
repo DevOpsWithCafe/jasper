@@ -41,12 +41,12 @@
     "publisher": {
         "@type": "Organization",
         "name": "{{ site.title }}",
-        "logo": "{{ site.baseurl }}{{ site.baseurl }}{{ site.logo }}"
+        "logo": "{{ site.baseurl }}{{ site.logo }}"
     },
     "url": "{{ site.baseurl }}{% if site.baseurl %}{{ site.baseurl }}{% endif %}{{ page.url | remove_first: '/' }}",
     "image": {
         "@type": "ImageObject",
-        "url": "{{ site.baseurl }}{{ site.baseurl }}{% if page.cover %}{{ page.cover }}{% else %}{{ site.cover }}{% endif %}",
+        "url": "{{ site.baseurl }}{% if page.cover %}{{ page.cover }}{% else %}{{ site.cover }}{% endif %}",
         "width": 2000,
         "height": 666
     },
