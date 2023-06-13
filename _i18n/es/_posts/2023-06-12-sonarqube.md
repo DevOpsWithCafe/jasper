@@ -2,6 +2,7 @@
 layout: post
 current: post
 cover:  assets/images/sonarqube.avif
+coverdesc:  SonarQube, el analizador de código
 navigation: True
 title: SonarQube - Usos e Instalación
 date: 2023-06-12 00:10:00
