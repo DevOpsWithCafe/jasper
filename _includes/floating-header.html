@@ -2,7 +2,7 @@
     <div class="floating-header-logo">
         <a href="{{ site.baseurl }}">
             {% if site.logo_dark %}
-                <img width="21" height="21" src="{{ site.baseurl }}{{ site.logo_dark }}" alt="{{ site.title }} icon" />
+                <img width="21px" height="21px" src="{{ site.baseurl }}{{ site.logo_dark }}" alt="{{ site.title }} icon" />
             {% endif %}
             <span>{{ site.title }}</span>
         </a>
@@ -14,10 +14,6 @@
         <a class="floating-header-share-tw" href="https://twitter.com/share?text={{ page.title | url_encode }}&amp;url={{ site.production_url }}{{ page.url | remove_first: '/' }}"
             onclick="window.open(this.href, 'share-twitter', 'width=550,height=235');return false;">
             {% include twitter.html %}
-        </a>
-        <a class="floating-header-share-fb" href="https://www.facebook.com/sharer/sharer.php?u={{ site.production_url }}{{ page.url | remove_first: '/' }}"
-            onclick="window.open(this.href, 'share-facebook','width=580,height=296');return false;">
-            {% include facebook.html %}
         </a>
         <a class="floating-header-share-wp" href="https://www.Whatsapp.com/sharer/sharer.php?u={{ site.production_url }}{{ page.url | remove_first: '/' }}"
         onclick="window.open(this.href, 'share-Whatsapp','width=580,height=296');return false;">
