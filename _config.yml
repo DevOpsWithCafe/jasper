@@ -50,7 +50,7 @@ permalink: /:title
 
 # gems and other configs
 plugins_dir: [_plugins]
-plugins: [jekyll-paginate, jekyll-feed, jekyll-multiple-languages-plugin]
+plugins: [jekyll-paginate, jekyll-feed, jekyll-multiple-languages-plugin, jekyll-sitemap]
 
 feed:
   path: feed.xml
@@ -82,6 +82,7 @@ relative_source: ./
 destination: ./_site/
 production_url: https://devopswith.cafe
 source_url: https://github.com/DevOpsWithCafe/jasper
+url: "https://devopswith.cafe"
 
 exclude:
   - assets/css
