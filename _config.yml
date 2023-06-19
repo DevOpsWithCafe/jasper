@@ -16,7 +16,7 @@ baseurl: /
 
 # Website info
 title: DevOps With Cafe
-description: Plataforma de intercambio de código
+description: DevOpsWithCafé, una página donde podrás compartir aprender la cultura de DevOps.
 cover: assets/images/blog-cover.avif
 cover_jpg: assets/images/blog-cover.avif
 logo: assets/images/blog-icon.avif
