@@ -20,6 +20,7 @@ description: DevOpsWithCafé, una página donde podrás compartir aprender la cu
 cover: assets/images/blog-cover.avif
 cover_jpg: assets/images/blog-cover.avif
 logo: assets/images/blog-icon.avif
+logo_png: assets/images/logo.png
 logo_dark: assets/images/favicon.avif
 favicon: assets/images/favicon.avif
 CNAME: devopswit.cafe #add cname for website to be created
