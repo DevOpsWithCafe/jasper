@@ -3,7 +3,8 @@
    "name": "DevOps With Cafe",
    "background_color": "#000",
    "theme_color": "#ad26b4",
-   "start_url": "https://devopswith.cafe",
+   "start_url": "https://devopswith.cafe/index.html",
+   "scope": ".",
    "display": "standalone",
    "description": "Platafoma de código y tutriales",
    "icons": [{
