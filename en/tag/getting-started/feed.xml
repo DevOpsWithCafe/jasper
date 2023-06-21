@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
+  <link href="https://devopswith.cafe//en/tag/getting-started/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://devopswith.cafe//en/" rel="alternate" type="text/html" hreflang="en" />
+  <updated>2023-06-21T23:09:31+00:00</updated>
+  <id>https://devopswith.cafe//en/tag/getting-started/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">DevOps With Cafe | </title>
+  
+
+  
+    <subtitle>DevOpsWithCafé, una página donde podrás compartir aprender la cultura de DevOps.</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">Bienvenido a DevOps With Cafe!</title>
+      <link href="https://devopswith.cafe//en/welcome" rel="alternate" type="text/html" title="Bienvenido a DevOps With Cafe!" />
+      <published>2023-05-30T10:00:00+00:00</published>
+      <updated>2023-05-30T10:00:00+00:00</updated>
+      <id>https://devopswith.cafe//en/welcome</id>
+      <content type="html" xml:base="https://devopswith.cafe//en/welcome">&lt;p&gt;Welcome to “&lt;abbr title=&quot;Development and Operations&quot;&gt;DevOps&lt;/abbr&gt; With Cafe”!&lt;/p&gt;
+
+&lt;p&gt;In this blog, we will explore the exciting world of &lt;abbr title=&quot;Development and Operations&quot;&gt;DevOps&lt;/abbr&gt; while enjoying a good cup of coffee. Here you will find articles, tutorials, and tips on how to implement and improve &lt;abbr title=&quot;Development and Operations&quot;&gt;DevOps&lt;/abbr&gt; practices in your projects.&lt;/p&gt;
+
+&lt;p&gt;What is &lt;abbr title=&quot;Development and Operations&quot;&gt;DevOps&lt;/abbr&gt;? It is a methodology that combines software development (Dev) and operations (Ops) to achieve continuous and efficient delivery of applications. In this space, I will guide you through the fundamental concepts, best practices, and key tools that will help you drive collaboration, automation, and scalability within your team.&lt;/p&gt;
+
+&lt;p&gt;Get ready to dive into topics such as continuous integration, continuous delivery, test automation, containers, infrastructure orchestration, monitoring, and more. We will learn how to leverage popular tools like Docker, Kubernetes, Jenkins, Git, and many others that facilitate the deployment and management of applications in agile environments.&lt;/p&gt;
+
+&lt;p&gt;My goal is to share knowledge and experiences that will help you become an expert in &lt;abbr title=&quot;Development and Operations&quot;&gt;DevOps&lt;/abbr&gt;, while enjoying a good cup of coffee together. So grab a hot beverage, get ready to learn, and discover how coffee and &lt;abbr title=&quot;Development and Operations&quot;&gt;DevOps&lt;/abbr&gt; can blend into a perfect combination!&lt;/p&gt;
+
+&lt;p&gt;Feel free to explore the articles and leave your comments. I hope you enjoy your time here at “&lt;abbr title=&quot;Development and Operations&quot;&gt;DevOps&lt;/abbr&gt; With Cafe”!&lt;/p&gt;
+
+&lt;p&gt;Greetings and enjoy your coffee!&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Paco</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="Getting started" />
+      
+
+      
+        <summary type="html">Welcome to “DevOps With Cafe”!</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>

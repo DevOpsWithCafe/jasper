@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
+  <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
+  <link href="https://devopswith.cafe/author/paco/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://devopswith.cafe/" rel="alternate" type="text/html" hreflang="es" />
+  <updated>2023-06-21T23:09:31+00:00</updated>
+  <id>https://devopswith.cafe/author/paco/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">DevOps With Cafe | </title>
+  
+
+  
+    <subtitle>DevOpsWithCafé, una página donde podrás compartir aprender la cultura de DevOps.</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">Rancher</title>
+      <link href="https://devopswith.cafe/rancher" rel="alternate" type="text/html" title="Rancher" />
+      <published>2023-06-13T00:00:00+00:00</published>
+      <updated>2023-06-13T00:00:00+00:00</updated>
+      <id>https://devopswith.cafe/rancher</id>
+      <content type="html" xml:base="https://devopswith.cafe/rancher">&lt;p&gt;Fourscore and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal.&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo apt update
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Now we are engaged in a great civil war, testing whether that nation, or any nation so conceived and so dedicated, can long endure. We are met on a great battle-field of that war. We have come to dedicate a portion of that field, as a final resting place for those who here gave their lives that that nation might live. It is altogether fitting and proper that we should do this.&lt;/p&gt;
+
+&lt;p&gt;But, in a larger sense, we can not dedicate-we can not consecrate-we can not hallow-this ground. The brave men, living and dead, who struggled here, have consecrated it, far above our poor power to add or detract. The world will little note, nor long remember what we say here, but it can never forget what they did here. It is for us the living, rather, to be dedicated here to the unfinished work which they who fought here have thus far so nobly advanced. It is rather for us to be here dedicated to the great task remaining before us-that from these honored dead we take increased devotion to that cause for which they gave the last full measure of devotion-that we here highly resolve that these dead shall not have died in vain-that this nation, under God, shall have a new birth of freedom-and that government of the people, by the people, for the people shall not perish from the earth.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Paco</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="Rancher" />
+      
+        <category term="Kubernetes" />
+      
+        <category term="Docker" />
+      
+
+      
+        <summary type="html">Fourscore and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">SonarQube - Usos e Instalación</title>
+      <link href="https://devopswith.cafe/sonarqube" rel="alternate" type="text/html" title="SonarQube - Usos e Instalación" />
+      <published>2023-06-12T00:10:00+00:00</published>
+      <updated>2023-06-12T00:10:00+00:00</updated>
+      <id>https://devopswith.cafe/sonarqube</id>
+      <content type="html" xml:base="https://devopswith.cafe/sonarqube">&lt;p&gt;En el mundo del desarrollo de software, la calidad del código es esencial para garantizar el buen funcionamiento de las aplicaciones y la satisfacción de los usuarios. Sin embargo, lograr altos estándares de calidad puede ser un desafío, especialmente en proyectos complejos y en equipos de desarrollo numerosos. Es aquí donde una herramienta como SonarQube se convierte en tu aliado indispensable. En este artículo, exploraremos los motivos por los cuales deberías considerar el uso de SonarQube en tus proyectos y cómo esta herramienta puede ayudarte a alcanzar niveles más altos de calidad del código.&lt;/p&gt;
+
+&lt;p&gt;Análisis estático del código:
+SonarQube utiliza técnicas de análisis estático del código para identificar problemas y vulnerabilidades en el código fuente. Realiza un escaneo exhaustivo del código en busca de malas prácticas, código duplicado, complejidad excesiva, vulnerabilidades de seguridad y más. Al utilizar SonarQube, puedes detectar estos problemas de manera temprana en el ciclo de desarrollo, lo que facilita su corrección antes de que se conviertan en problemas más graves en la etapa de producción.&lt;/p&gt;
+
+&lt;p&gt;Cobertura de múltiples lenguajes de programación:
+Una de las ventajas clave de SonarQube es su capacidad para analizar proyectos escritos en una amplia variedad de lenguajes de programación. Ya sea que estés trabajando con Java, C#, JavaScript, Python u otros lenguajes populares, SonarQube puede proporcionar análisis de calidad del código específico para cada uno de ellos. Esto garantiza una cobertura integral en tus proyectos, independientemente del lenguaje utilizado, lo cual es especialmente beneficioso en equipos con múltiples tecnologías.&lt;/p&gt;
+
+&lt;p&gt;Integración continua:
+SonarQube se integra perfectamente en los procesos de integración continua (CI) y entrega continua (CD), lo que te permite realizar análisis automáticos del código con cada confirmación o despliegue. Esta integración continua ayuda a mantener un alto nivel de calidad a lo largo de todo el ciclo de vida del proyecto, al identificar y abordar problemas de código de manera constante y oportuna.&lt;/p&gt;
+
+&lt;p&gt;Establecimiento de estándares de calidad:
+SonarQube te permite definir y establecer estándares de calidad del código para tu proyecto. Puedes configurar reglas específicas y personalizadas que reflejen las mejores prácticas de programación, convenciones de codificación y requisitos de seguridad que deseas aplicar. Al hacerlo, SonarQube generará informes claros y detallados que indicarán dónde se violan estos estándares, permitiéndote abordar rápidamente cualquier desviación y mejorar la calidad general del código.&lt;/p&gt;
+
+&lt;p&gt;Colaboración y visibilidad:
+SonarQube proporciona un panel de control intuitivo y fácil de usar, que muestra métricas y resultados de análisis en tiempo real. Esto permite a todo el equipo de desarrollo visualizar el progreso y la calidad del código de manera transparente. Además, SonarQube facilita la colaboración al proporcionar informes claros y comprensibles para todos los miembros del equipo, fomentando así una cultura de calidad compartida y permitiendo la identificación y corrección temprana de problemas.&lt;/p&gt;
+
+&lt;p&gt;En resumen, SonarQube es una herramienta poderosa y versátil que puede marcar la diferencia en la calidad del código de tus proyectos de desarrollo de software. Su capacidad para realizar análisis estático del código, su amplia cobertura de lenguajes de programación, su integración continua, la posibilidad de establecer estándares de calidad y su enfoque en la colaboración y la visibilidad lo convierten en una opción valiosa para cualquier equipo de desarrollo.&lt;/p&gt;
+
+&lt;p&gt;Al utilizar SonarQube, podrás detectar y corregir problemas de código de manera temprana, mejorar la seguridad, reducir la complejidad y mantener una alta calidad del software en todo momento. No solo contribuirá a la eficiencia y robustez de tus proyectos, sino que también fomentará una cultura de desarrollo de software de calidad entre todo el equipo.&lt;/p&gt;
+
+&lt;p&gt;En última instancia, el uso de SonarQube te permitirá entregar aplicaciones de mayor calidad, minimizar los riesgos y mantener la confianza de tus usuarios. No pierdas la oportunidad de aprovechar esta herramienta para mejorar tus proyectos y elevar tus estándares de desarrollo de software. ¡Intégralo hoy mismo y verás los beneficios que brinda a tu equipo y a tus aplicaciones!&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Paco</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="SonarQube" />
+      
+
+      
+        <summary type="html">En el mundo del desarrollo de software, la calidad del código es esencial para garantizar el buen funcionamiento de las aplicaciones y la satisfacción de los usuarios. Sin embargo, lograr altos estándares de calidad puede ser un desafío, especialmente en proyectos complejos y en equipos de desarrollo numerosos. Es aquí donde una herramienta como SonarQube se convierte en tu aliado indispensable. En este artículo, exploraremos los motivos por los cuales deberías considerar el uso de SonarQube en tus proyectos y cómo esta herramienta puede ayudarte a alcanzar niveles más altos de calidad del código.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Bienvenido a DevOps With Cafe!</title>
+      <link href="https://devopswith.cafe/welcome" rel="alternate" type="text/html" title="Bienvenido a DevOps With Cafe!" />
+      <published>2023-05-30T10:00:00+00:00</published>
+      <updated>2023-05-30T10:00:00+00:00</updated>
+      <id>https://devopswith.cafe/welcome</id>
+      <content type="html" xml:base="https://devopswith.cafe/welcome">&lt;p&gt;¡Bienvenido a “&lt;abbr title=&quot;Development and Operations&quot;&gt;DevOps&lt;/abbr&gt; With Cafe”!&lt;/p&gt;
+
+&lt;p&gt;En este blog, exploraremos el apasionante mundo de &lt;abbr title=&quot;Development and Operations&quot;&gt;DevOps&lt;/abbr&gt; mientras disfrutamos de una buena taza de café. Aquí encontrarás artículos, tutoriales y consejos sobre cómo implementar y mejorar prácticas &lt;abbr title=&quot;Development and Operations&quot;&gt;DevOps&lt;/abbr&gt; en tus proyectos.&lt;/p&gt;
+
+&lt;p&gt;¿Qué es &lt;abbr title=&quot;Development and Operations&quot;&gt;DevOps&lt;/abbr&gt;? Es una metodología que combina el desarrollo de software (Dev) y las operaciones (Ops) para lograr una entrega continua y eficiente de aplicaciones. En este espacio, te guiaré a través de los conceptos fundamentales, las mejores prácticas y las herramientas clave que te ayudarán a impulsar la colaboración, automatización y escalabilidad en tu equipo.&lt;/p&gt;
+
+&lt;p&gt;Prepárate para sumergirte en temas como integración continua, entrega continua, automatización de pruebas, contenedores, orquestación de infraestructura, monitoreo y más. Aprenderemos cómo aprovechar herramientas populares como Docker, Kubernetes, Jenkins, Git y muchas otras que facilitan la implementación y gestión de aplicaciones en entornos ágiles.&lt;/p&gt;
+
+&lt;p&gt;Mi objetivo es compartir conocimientos y experiencias que te ayuden a convertirte en un experto en &lt;abbr title=&quot;Development and Operations&quot;&gt;DevOps&lt;/abbr&gt;, mientras disfrutamos juntos de una buena taza de café. ¡Así que sírvete una bebida caliente, prepárate para aprender y descubrir cómo el café y &lt;abbr title=&quot;Development and Operations&quot;&gt;DevOps&lt;/abbr&gt; pueden mezclarse en una combinación perfecta!&lt;/p&gt;
+
+&lt;p&gt;Siéntete libre de explorar los artículos y dejar tus comentarios. ¡Espero que disfrutes de tu tiempo aquí en “&lt;abbr title=&quot;Development and Operations&quot;&gt;DevOps&lt;/abbr&gt; With Cafe”!&lt;/p&gt;
+
+&lt;p&gt;¡Saludos y buen café!&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Paco</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="Getting started" />
+      
+
+      
+        <summary type="html">¡Bienvenido a “DevOps With Cafe”!</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> - Articles</title>
+    <description>DevOpsWithCafé, una página donde podrás compartir aprender la cultura de DevOps.</description>
+    <link rel="canonical">  
+    href="https://devopswith.cafe/"</link>
+    
+      
+      <item>
+        <title>Rancher</title>
+        
+          <description>&lt;p&gt;Fourscore and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Tue, 13 Jun 2023 00:00:00 +0000</pubDate>
+        <link>
+        //rancher</link>
+        <guid isPermaLink="true">//rancher</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>SonarQube - Usos e Instalación</title>
+        
+          <description>&lt;p&gt;En el mundo del desarrollo de software, la calidad del código es esencial para garantizar el buen funcionamiento de las aplicaciones y la satisfacción de los usuarios. Sin embargo, lograr altos estándares de calidad puede ser un desafío, especialmente en proyectos complejos y en equipos de desarrollo numerosos. Es aquí donde una herramienta como SonarQube se convierte en tu aliado indispensable. En este artículo, exploraremos los motivos por los cuales deberías considerar el uso de SonarQube en tus proyectos y cómo esta herramienta puede ayudarte a alcanzar niveles más altos de calidad del código.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Mon, 12 Jun 2023 00:10:00 +0000</pubDate>
+        <link>
+        //sonarqube</link>
+        <guid isPermaLink="true">//sonarqube</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Bienvenido a DevOps With Cafe!</title>
+        
+          <description>&lt;p&gt;¡Bienvenido a “DevOps With Cafe”!&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Tue, 30 May 2023 10:00:00 +0000</pubDate>
+        <link>
+        //welcome</link>
+        <guid isPermaLink="true">//welcome</guid>
+      </item>
+      
+    
+  </channel>
+</rss>
