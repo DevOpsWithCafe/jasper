@@ -2,13 +2,20 @@
    "$schema": "https://json.schemastore.org/web-manifest-combined.json",
    "name": "DevOps With Cafe",
    "background_color": "#000",
-   "theme_color": "#00a880",
-   "start_url": "/",
+   "theme_color": "#ad26b4",
+   "start_url": "https://devopswith.cafe",
    "display": "standalone",
    "description": "Platafoma de código y tutriales",
    "icons": [{
-     "src": "/assets/images/logo.png",
-     "sizes":"any",
-     "type": "image/png"
-   }]
+     "src": "/assets/images/splash_app.png",
+     "sizes":"515x515",
+     "type": "image/png",
+     "purpose": "any"
+   },
+   {
+    "src": "/assets/images/maskable_icon.png",
+    "sizes":"any",
+    "type": "image/png",
+    "purpose": "maskable"
+  }]
  }
